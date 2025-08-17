@@ -21,8 +21,9 @@ Built using **HTML, CSS, and Tailwind CSS**.
 
 Greenden/
 │── index.html
-│── /img
-
+│── style.css
+│── /images
+│── /assets
 
 
 
