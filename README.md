@@ -4,7 +4,7 @@ Greenden is a simple responsive website for showcasing plants and interior decor
 Built using **HTML, CSS, and Tailwind CSS**.  
 
 ## 🚀 Live Demo
-🔗 [Greenden Website](https://kabimurugan.github.io/Greenden/)
+🔗 [Greenden Website](https://uthragiri2005.github.io/Greenden/)
 
 ## ✨ Features
 - Responsive design for all screen sizes 📱💻  
